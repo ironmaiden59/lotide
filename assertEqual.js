@@ -5,3 +5,4 @@ const assertEqual = function (actual, expected){
 };
 
 console.log(assertEqual(1, 1));
+
