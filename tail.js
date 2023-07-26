@@ -12,4 +12,6 @@ function tail(array) {
   }
 }
 
-console.log(assertEqual(tail(["Yo Yo", "Lighthouse", "Labs"])));
+console.log(friend);
+var friend = 'E.T.';
+console.log(friend);
