@@ -4,7 +4,7 @@ const assertEqual = function (actual, expected){
    
 };
 
-let sentence = "The function should" 
+let sentence = "lighthouse in the house" 
 
 const countLetters = function (words){
 const strLowercase = words.toLowerCase();
